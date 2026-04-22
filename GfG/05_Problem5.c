@@ -1,8 +1,7 @@
+//  Write a Program to find the Sum of two numbers entered by the user.
 #include<stdio.h>
 
 int main() {
-    //  Write a Program to find the Sum of two numbers entered by the user.
-
     int n1,n2;
     
         printf("Enter The Number 1: ");
@@ -14,5 +13,4 @@ int main() {
         printf("Sum of the Two User Defined Number is: %d", n1 + n2);
 
         return 0;
-    
 }
